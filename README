@@ -1,0 +1,2 @@
+Applies newton's method, given a required number of iterations, a function, and it's derivative. 
+Prints all median steps.
